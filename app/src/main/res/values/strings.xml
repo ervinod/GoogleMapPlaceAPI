@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google Place API</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="google_maps_api">AIzaSyAvSEOYQ65L2Y0QQn_FtV5baxg5vXkK4**</string>
+</resources>
